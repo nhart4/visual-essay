@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl"
+       title="Natalie's Visual Essay"
        author="Natalie Hart"
        banner="https://iiif.juncture-digital.org/banner/?url=https://en.wikipedia.org/wiki/Blue_jay#/media/File:Blue_jay_in_PP_(30960).jpg" 
        layout="vertical">
