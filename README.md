@@ -30,7 +30,12 @@ You blessed me with a life full of laughter, singing, and dancing. I feel your s
 
 From the moment you learned to talk, you wanted to spread your vivacious spirit to everyone around you. I always feared that someone might steal you away because you loved to chat with anyone you could find in the park. The animals we saw were your favorite part of it all; especially the doggies you spent hours with.
 <param ve-image 
-       url="https://nhart4.github.io/visual-essay/images/36A_00338.JPEG">
+       url="https://nhart4.github.io/visual-essay/images/img185%20(1).jpeg">
+       
+ ## The memories I'm left with
+ Your infectious spirit carries me on through the darkest days. You loved to be center stage in everyone's life. Dressing up in funky hats and pretending to be walking on the runway while we watched and cheered. You brought a sense of confidence and personality that those far older than you would be envious of.
+<param ve-image
+       url="
 
 # References
 
