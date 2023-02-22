@@ -3,8 +3,8 @@
 <param ve-config 
        title="Natalie's Visual Essay"
        author="Natalie Hart"
-       banner=""
-       layout="horizontal">
+       banner="https://iiif.juncture-digital.org/banner/?url=https://e1.pxfuel.com/desktop-wallpaper/377/572/desktop-wallpaper-dark-stormy-ocean-stormy-night-in-the-sea-p"
+       layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
