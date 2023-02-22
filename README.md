@@ -3,7 +3,7 @@
 <param ve-config 
        title="Natalie's Visual Essay"
        author="Natalie Hart"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fblack-sand-beach&psig=AOvVaw24cV4gFiUE6q00cteNg-9s&ust=1677185710171000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNDB1OiBqv0CFQAAAAAdAAAAABAD" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://www.google.com/url?sa=i&url=https://t4.ftcdn.net/jpg/01/96/52/61/360_F_196526192_4O1JQRRoVi3d948io4TfznZBF9xw5LX0.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
@@ -46,4 +46,3 @@ When the deepest sorrow strikes me, I feel as if someone's hands are clasped aro
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
