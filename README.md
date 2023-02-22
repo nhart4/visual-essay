@@ -33,7 +33,14 @@ From the moment you learned to talk, you wanted to spread your vivacious spirit 
        url="https://nhart4.github.io/visual-essay/images/img185%20(1).jpeg">
        
  ## The memories I'm left with
+ 
  Your infectious spirit carries me on through the darkest days. You loved to be center stage in everyone's life. Dressing up in funky hats and pretending to be walking on the runway while we watched and cheered. You brought a sense of confidence and personality that those far older than you would be envious of.
+<param ve-image
+       url="https://nhart4.github.io/visual-essay/images/img087%20(12).jpeg">
+       
+## The darkest storm
+
+When the deepest sorrow strikes me, I feel as if someone's hands are clasped around my neck so tight that my throat closes, and I can no longer breathe. The stormy clouds remind me of your cries that will forever haunt me when you became more and more ill. All I prayed for was for the grey clouds to hide away and for you to feel better again.
 <param ve-image
        url="
 
