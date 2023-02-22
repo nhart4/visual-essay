@@ -3,7 +3,7 @@
 <param ve-config 
        title="Natalie's Visual Essay"
        author="Natalie Hart"
-       banner="https://t4.ftcdn.net/jpg/01/96/52/61/360_F_196526192_4O1JQRRoVi3d948io4TfznZBF9xw5LX0.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://t4.ftcdn.net/jpg/01/96/52/61/360_F_196526192_4O1JQRRoVi3d948io4TfznZBF9xw5LX0.jpg" 
        layout="horizontal">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
