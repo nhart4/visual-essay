@@ -24,7 +24,7 @@ The crisp air of the ocean breeze wraps around my hair and body as if she is emb
 
 You blessed me with a life full of laughter, singing, and dancing. I feel your spirit reemerge in our home when I listen to all the videos you made me take of you, giving the most special performances. You showed us all how to live freely and embrace silliness. 
 <param ve-image
-       url="">
+       url="https://nhart4.github.io/visual-essay/images/Untitled-12.jpeg">
 
 ## Your joyous spirit
 
