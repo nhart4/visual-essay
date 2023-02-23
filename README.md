@@ -24,7 +24,7 @@ I lay away at night wondering about the ways that you would have changed the wor
 <param ve-image 
        url="https://nhart4.github.io/visual-essay/images/BC2A6DB0-9EA4-45B7-8C8F-259DE0CE1351.jpeg">
        
- ## The memories That Remain
+ ## The Memories That Remain
  
 Your infectious spirit carries me on through the darkest days. You loved to be center stage in everyone's life. Dressing up in funky hats and pretending to be walking on the runway while we watched and cheered. You brought a sense of confidence and personality that those far older than you would be envious of.
 <param ve-image
