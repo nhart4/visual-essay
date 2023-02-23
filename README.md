@@ -10,8 +10,7 @@
 
 The crisp air of the ocean breeze wraps around my hair and body as if she is embracing me in a warm hug. As I stare out into the waves you loved to play in, I can still hear your sweet laugh ringing in my head. This beach is your new home, and it will always remind me of your favorite place. For now, I await the day when I wake up in the clouds with you by my side.
 <param ve-image
-       url="https://nhart4.github.io/visual-essay/images/img.643.jpeg">
-       
+       url="https://nhart4.github.io/visual-essay/images/img.643.jpeg">   
 
 ## My amazing girl
 
