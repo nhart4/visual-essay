@@ -3,7 +3,7 @@
 <param ve-config 
        title="Ashes into Sand"
        author="Natalie Hart"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Stormy_Skies%2C_Amroth_Beach_-_geograph.org.uk_-_3214209.jpg/640px-Stormy_Skies%2C_Amroth_Beach_-_geograph.org.uk_-_3214209.jpg"
+       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sunset_sky_water.jpg/640px-Sunset_sky_water.jpg"
               layout="vtl">
 
 ## Where Our Story Begins
