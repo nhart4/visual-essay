@@ -3,16 +3,8 @@
 <param ve-config 
        title="Natalie's Visual Essay"
        author="Natalie Hart"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://e1.pxfuel.com/desktop-wallpaper/377/572/desktop-wallpaper-dark-stormy-ocean-stormy-night-in-the-sea-p"
-       layout="vertical">
-
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
+       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Stormy_Skies%2C_Amroth_Beach_-_geograph.org.uk_-_3214209.jpg/640px-Stormy_Skies%2C_Amroth_Beach_-_geograph.org.uk_-_3214209.jpg"
+              layout="vtl">
 
 ## Where our story begins
 
