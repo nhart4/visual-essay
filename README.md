@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Natalie's Visual Essay"
+       title="Ashes into Sand"
        author="Natalie Hart"
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Stormy_Skies%2C_Amroth_Beach_-_geograph.org.uk_-_3214209.jpg/640px-Stormy_Skies%2C_Amroth_Beach_-_geograph.org.uk_-_3214209.jpg"
               layout="vtl">
