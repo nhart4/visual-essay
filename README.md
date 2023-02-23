@@ -42,3 +42,4 @@ When the deepest sorrow strikes me, I feel as if someone's hands are clasped aro
 [^ref1] All images on indicated pages were photographed and edited by Lucas Held
 [^ref2] Banner image from Wikimedia Commons, by geograph.org.uk
 
+
