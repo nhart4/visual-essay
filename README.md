@@ -23,7 +23,7 @@ You blessed me with a life rich of laughter, singing, and dancing. I feel your s
 
 I lay away at night wondering about the ways that you would have changed the world we live in. Hope remains in my spirit but diminishes over time since everything becomes dimmer. I imagine you to have emerged as a philosophical and wise woman. You would have embraced motherhood openly and allowed your nurturing abilities to flourish.
 <param ve-image 
-       url="https://nhart4.github.io/visual-essay/images/36A_00338.JPEG">
+       url="https://nhart4.github.io/visual-essay/images/BC2A6DB0-9EA4-45B7-8C8F-259DE0CE1351.jpeg">
        
  ## The memories I'm left with
  
